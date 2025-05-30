@@ -1,9 +1,5 @@
 # Olá, eu sou a Elissandra Santos! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Frontend+Júnior;Da+Enfermagem+para+a+Tecnologia;Apaixonada+por+Criar+Interfaces!&center=true&size=30">
-</div>
-
 ## 🌱 Sobre Mim
 
 Sou uma **desenvolvedora júnior em transição de carreira**, saindo da área da saúde para o mundo da tecnologia! 🚀
